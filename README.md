@@ -5,6 +5,11 @@ deploy -> <a href="https://marina-barbosa.github.io/jogo-detona-ralph/src/" targ
 # Jogo da Toupeira - Temática Detona Ralph
 Este projeto é um jogo da toupeira com temática inspirada no filme Detona Ralph. Desenvolvido como parte de um exercício prático do curso de desenvolvimento de jogos da Digital Innovation One (DIO), ministrado pelo professor Felipe Aguiar. O jogo foi implementado utilizando HTML, CSS e JavaScript.
 
+<div align='center'>  
+
+![GIF](https://github.com/marina-barbosa/jogo-detona-ralph/blob/master/src/images/Captura%20de%20tela%202024-01-10%20085328.png) 
+</div>
+
 #  Visão Geral
 O jogo da toupeira é uma versão temática inspirada no universo do filme Detona Ralph. O objetivo é identificar e "bater" nas toupeiras que surgem aleatoriamente, semelhante à jogabilidade de um jogo de fliperama.
 
